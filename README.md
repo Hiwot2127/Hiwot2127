@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hiwot-b-kebede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiwot-b-kebede" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hiwot-b-kebede-a8a7901b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiwot-b-kebede" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hiwot_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hiwot_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hiwot_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hiwot_25" height="30" width="40" /></a>
 </p>
