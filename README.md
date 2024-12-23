@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Hiwot Belay Kebede.</h1>
 <h3 align="center">A Passionate Software Engineer and Full Stack Developer</h3>
 
-- 📫 Reach me out on **hiwotkebede01@gmail.com**
+- 📫 Reach out to me at **hiwotkebede01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
